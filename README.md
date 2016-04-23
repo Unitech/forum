@@ -1,4 +1,15 @@
-# airswarm
+
+# Forum
+
+Inter connection library with auto discovery on local network
+
+## Todo
+
+- [ ] Add module to detect free, internet opened port instead of listening on 0 (random port)
+- [ ] Allow to specify IPs to connect to
+- [ ] Allow to pass certificates to connection
+
+# airswarm fork
 
 Network swarm that automagically discovers other peers on the network using multicast dns
 
